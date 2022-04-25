@@ -14,7 +14,7 @@ module.exports = function FixLaggyFriendsList(mod) {
         }
         requestTimeout = mod.setTimeout(()=>{ requestTimeout = undefined; }, 200);
         // refresh the UI with the accumulated Update data.
-        if (friendInfo) mod.send('S_UPDATE_FRIEND_INFO', 2, friendInfo);
+        if (friendInfo) mod.send('S_UPDATE_FRIEND_INFO', 1, friendInfo);
         friendInfo = undefined;
     });
 
