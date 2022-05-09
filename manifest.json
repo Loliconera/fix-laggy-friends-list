@@ -2,7 +2,7 @@
     "files": {
         "README.MD": "ab64c22b670bb585f81fbeb0ccac4736494ee2bc6a0be7111d6d1f1ba2a2f19f",
         "index.js": "b6fec728f0e21aaf7fabd9f135401cc6f3c8115d233da582be757841ba893aaf",
-        "module.json": "f68df12372b49e791f0b42312748d71dffb4036a3c7c19f0a35497566b214d0f"
+        "module.json": "11867a4c575ef1992f611ece5d6f16326054be9bd0ee88350d375371852a8cfc"
     },
     "defs": {
         "C_UPDATE_FRIEND_INFO": "raw",

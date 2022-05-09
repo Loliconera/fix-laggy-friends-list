@@ -1,12 +1,11 @@
 {
     "disableAutoUpdate": false,
-    "name": "fix-laggy-friends-list",
-    "author": "teralove, loliconera",
+    "name": "Fix-laggy-friends-list",
+    "author": "teralove/loliconera",
     "description": "Solución para el error de la lista de amigos que retrasa, congela y bloquea el juego.",
-    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A",
     "options": {
-        "niceName": "Arreglar el lag de la lista de amigos"
+        "niceName": "Fix-laggy-friends-list"
     },
     "servers": ["https://raw.githubusercontent.com/Loliconera/fix-laggy-friends-list/master/"],
-    "supportUrl": "https://github.com/Loliconera/fix-laggy-friends-list/issues"
+    "supportUrl": "https://github.com/Loliconera/fix-laggy-friends-list"
 }
